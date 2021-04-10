@@ -8,8 +8,8 @@ Exported blob data filename includes reference to the database file, table, fiel
 Currently, only binary blob data is exported and blob data from all tables/blob fields.
 
 Change Log
-alpha 0.1 : Initial GitHub release
-alpha 0.2 : Added select table/field option, fixed typos, cleaned up code 
+Alpha 0.1 : Initial GitHub release
+Alpha 0.2 : Added select table/field option, fixed typos, cleaned up code 
 
 Sometimes, the contents of blob data is pretty straightforward, such as an image or text file.
 Other times, there may be padding before the file contents or multiple files clumped together in a single blob.
