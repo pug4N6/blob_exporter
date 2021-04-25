@@ -1,7 +1,5 @@
 # blob_exporter
-SQLite Blob Exporter
-
-Python script to export blob data from an SQLite database
+A python script to export SQLite blob data.
 
 Exported blob data filename includes reference to the database file, table, field, and rowID where the blob data was located.
 
